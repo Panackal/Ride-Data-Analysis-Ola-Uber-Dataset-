@@ -26,7 +26,6 @@ The analysis was performed using **Python, SQL, and Power BI**, transforming raw
 
 
 
-> ⚠️ Replace the image paths above with your actual uploaded image paths in the repo.
 
 ---
 
