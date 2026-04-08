@@ -78,4 +78,4 @@ The analysis was performed using **Python, SQL, and Power BI**, transforming raw
 
 
 
-## ⭐ If you found this useful, consider giving it a star!
+
