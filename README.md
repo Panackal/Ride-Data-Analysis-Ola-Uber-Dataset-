@@ -74,7 +74,7 @@ The analysis was performed using **Python, SQL, and Power BI**, transforming raw
 ![Time Analysis](11.png)
 
 ### 📌 Profit & Revenue Analysis Dashboard
-![Profit Analysis](12.png)
+![Profit Analysis](22.png)
 
 
 
